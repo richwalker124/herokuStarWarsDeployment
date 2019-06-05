@@ -13,5 +13,8 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines" : {
+    "node" : "10.15.0"
+  }
 }
